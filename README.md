@@ -1,6 +1,6 @@
 # pyneedn
 
-pyneedn aims to build a data integraion and ETL toolkit for any popular open source compute engines or databases.
+pyneedn aims to build a data integration and ETL toolkit for any popular open source compute engines or databases.
 
 ## Usage
 
